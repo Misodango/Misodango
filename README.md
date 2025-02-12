@@ -6,11 +6,11 @@
  - [📂 レポジトリ](https://github.com/Misodango/english_app)[🌐 デプロイ](https://misodango.github.io/english_app/#/)
  
 - **文化祭AIおみくじ 2024**
- - ESP32 × Gemini APIによる物理的なおみくじ生成システム
+ - ESP32 × Gemini APIによる物理的なおみくじ生成システム(公開を終了)
  - [📂 レポジトリ](https://github.com/Misodango/denpasai_omikuji) | [🌐 デプロイ](https://denpasai-omikuji-app.web.app/)
 
 - **実験補助アプリ Experimentor**
- - 高専や理系学生の実験を補助するために作成
+ - 高専や理系学生の実験を補助するために作成(DB運用を終了)
  - [📂 レポジトリ](https://github.com/Misodango/jikkenTodo) | [🌐 デプロイ](https://misodango.github.io/jikkenTodo/)
 
 ## 🏆 競技プログラミング / Competitive Programming
